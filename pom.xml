@@ -61,7 +61,7 @@
       					<applicationName>testvenknew</applicationName>
       					<environment>Sandbox</environment>
       					<workerType>Micro</workerType>
-      					<objectStore>false</objectStore>
+      					<objectStoreV2>true</objectStoreV2>
       					<properties>
         					<key>value</key>
       					</properties>
